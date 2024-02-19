@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pauliulianpasca
-- 👀 I’m interested in Software QA testing opportunities 
+- 👀 I’m interested in Junior Software QA testing opportunities 
 - 🌱 I’m currently learning automation testing with JavaScript and Cypress 
 - 📫 How to reach me pauliulianpasca@gmail.com
   
