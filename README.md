@@ -6,7 +6,8 @@
   After finishing a QA course with my mentor, I learned about agile, manual testing, API testing (using Postman), writing bug reports and test cases, and automation testing (using Cypress). I'm always keen to learn and improve myself, and I see myself curious about learning new things
 
   My LinkedIn profile: https://www.linkedin.com/in/paul-iulian-pasca/
-  My Udemy courses: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ 
+  
+  Udemy course: https://www.udemy.com/course/testare-manuala-si-automata-curs-qa/ 
 
 
   
